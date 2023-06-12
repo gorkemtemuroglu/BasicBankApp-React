@@ -1,3 +1,10 @@
+This App is for training my useReducer hook.  
+İf you want start this project make sure you first npm install after than npm start.
+
+About project: You can open an account with 500 balance. You can set a loan 5000. But if you want close your account back you should first set your balance to 0 and also 
+you should set your Loan to 0. After that finally you can close your account safely...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
